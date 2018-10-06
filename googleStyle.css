@@ -157,7 +157,7 @@ body{
     visibility: hidden; 
 }
 /*1317*/
-@media only screen and (max-width:1150px) {
+@media only screen and (max-width:1200px) {
     .expand{
     background-color:#ffffff; 
     visibility: visible;  
