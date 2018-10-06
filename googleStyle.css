@@ -158,16 +158,17 @@ body{
 }
 /*1317*/
 @media only screen and (max-width:1225px) {
-    .expand{
-        background-color:#ffffff; 
-        visibility: visible;  
-    }
+    
 }
 
 @media only screen and (max-width:1200px) {
     .searchIconA{
         background-color:#00f3be; 
         visibility: visible;  
+    }
+    .expand{
+    background-color:#ffffff; 
+    visibility: visible;  
     }
 }
 
